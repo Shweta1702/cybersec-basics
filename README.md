@@ -17,15 +17,5 @@ The repository serves as a supplemental material provider to several books, vide
 
 - **AI Security Research**: Exploration of artificial intelligence and machine learning in the context of cybersecurity. This includes researching potential security vulnerabilities in AI algorithms, developing robust AI models resistant to adversarial attacks, understanding AI-driven threat detection, and creating tools that leverage AI to enhance security measures, and more.
 
-## How to Use
-You can clone this repository or download specific resources to deepen your understanding in the aforementioned areas. For detailed explanations and practical applications, refer to the books, video courses, and training by Omar Santos.
 
-## Contributing
-If you wish to contribute, please read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Contact
-For any inquiries or feedback, please feel free to contact [Omar Santos](https://www.linkedin.com/in/santosomar/).
 
